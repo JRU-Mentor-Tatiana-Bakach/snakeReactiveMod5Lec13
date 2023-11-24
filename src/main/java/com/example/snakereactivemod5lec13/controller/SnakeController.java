@@ -1,7 +1,7 @@
 package com.example.snakereactivemod5lec13.controller;
 
-import com.example.snakereactivem5l13.model.Snake;
-import com.example.snakereactivem5l13.service.SnakeService;
+import com.example.snakereactivemod5lec13.model.Snake;
+import com.example.snakereactivemod5lec13.service.SnakeService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;

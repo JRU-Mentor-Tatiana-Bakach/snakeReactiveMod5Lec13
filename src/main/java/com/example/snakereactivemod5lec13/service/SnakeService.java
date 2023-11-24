@@ -1,7 +1,7 @@
 package com.example.snakereactivemod5lec13.service;
 
-import com.example.snakereactivem5l13.model.Snake;
-import com.example.snakereactivem5l13.repository.SnakeRepository;
+import com.example.snakereactivemod5lec13.model.Snake;
+import com.example.snakereactivemod5lec13.repository.SnakeRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
